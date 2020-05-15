@@ -1,0 +1,30 @@
+.cuadraditos{
+width: 100px;
+height: 100px;
+display: flex;
+flex-wrap: wrap-reverse;
+flex-direction: column;
+
+
+
+
+
+
+}
+.rojo{
+
+background-color: red;
+
+
+}
+
+.azul{
+
+background-color: royalblue;
+
+}
+
+.verde{
+background-color: lightseagreen;
+}
+
